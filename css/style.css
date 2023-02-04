@@ -1,0 +1,5 @@
+@media (max-width:500px) AND (min-width:300px){
+    h3{
+        color:red
+    }
+}
