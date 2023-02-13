@@ -3,3 +3,26 @@
         color:red
     }
 }
+
+.hide{
+    display: none;
+}
+
+.tasks , .backup_tasks {
+    width: 80%;
+    margin:30px auto;
+    background-color: #efefef;
+    padding: 10px 30px;
+}
+.tasks p , .backup_tasks p{
+    width: 80%;
+    padding: 10px 20px;
+    background-color: #ffff;
+    border: 1px solid #666;
+}
+
+.actions{
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+}

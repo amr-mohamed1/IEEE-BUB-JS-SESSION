@@ -8,8 +8,8 @@
 // console.log(title[0])
 // var title = document.getElementsByClassName('hello');
 // console.log(title[0])
-var title = document.title;
-var tag = document.querySelectorAll('div');
+// var title = document.title;
+// var tag = document.querySelectorAll('div');
 // tag[0].innerHTML = title;
 // tag[0].innerHTML = title;
 
@@ -59,14 +59,14 @@ var tag = document.querySelectorAll('div');
 // console.log(tag[0].lastChild);
 // console.log(tag[0].lastElementChild);
 
-var element = document.createElement("h6");
+// var element = document.createElement("h6");
 
-var body = document.createTextNode("hello from node in js");
+// var body = document.createTextNode("hello from node in js");
 
-element.appendChild(body);
+// element.appendChild(body);
 
 
-tag[0].appendChild(element);
+// tag[0].appendChild(element);
 
 // var by_id = document.getElementById("h3_id");
 // var by_class = document.getElementsByClassName("h3_class");
